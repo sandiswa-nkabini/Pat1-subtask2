@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() { 
-    int temp1, temp2, temp3;
+    int temp1, temp2, temp3; 
     int diff; 
 
     // Input first temperature
